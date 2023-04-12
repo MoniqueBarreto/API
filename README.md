@@ -3,7 +3,8 @@
 
 
 # Description
-Projet de concrétisation de mes connaissances dans l'API. Le projet vise à montrer, enregistrer, mettre à jour et supprimer les livres que vous avez déjà lus ou que vous aimeriez lire.
+Projet de concrétisation de mes connaissances dans l'API. 
+Le projet vise à montrer, enregistrer, mettre à jour et supprimer les livres que vous avez déjà lus ou que vous aimeriez lire.
 
 # Project Status
 > :construction: Project in construction :construction:
@@ -22,7 +23,7 @@ Projet de concrétisation de mes connaissances dans l'API. Le projet vise à mon
 
 
 
-#Technologies Used in this Project
+# Technologies Used in this Project
  ``NodeJs``
  ``Mogodb``
  ``Express``
@@ -30,5 +31,7 @@ Projet de concrétisation de mes connaissances dans l'API. Le projet vise à mon
  ``Insomnia``
  ``Nodemon``
 
-#Conclusion
+# Conclusion
+
+
 
