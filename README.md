@@ -3,31 +3,29 @@
 
 
 # Description
-Projet de concrétisation de mes connaissances dans l'API. Le projet vise à montrer, enregistrer, mettre à jour et supprimer les livres que vous avez déjà lus ou que vous aimeriez lire.
+Projet de concrétisation de mes connaissances dans l'API. 
+Le projet vise à montrer, enregistrer, mettre à jour et supprimer les livres que vous avez déjà lus ou que vous aimeriez lire.
+
 # Project Status
 > :construction: Project in construction :construction:
 
 
 # :hammer: Features of the Project
 
-- `Feature 1`: 
-- `Feature 2`: 
-- `Feature 3`: 
-- `Feature 4`: 
-
-Video do registro de um livro com insominia
-
-# 📁 Access to the Project
-
-
+- `Feature 1`: Find a book | author
+- `Feature 2`: Register a book | author
+- `Feature 3`: Update a book | author
+- `Feature 4`: Delete a book | author
 
 #Technologies Used in this Project
-``NodeJs``
- ``Mogodb``
- ``Express``
- ``Mongoose``
- ``Insomnia``
- ``Nodemon``
+-`NodeJs`
+-`Mogodb`
+-`Express`
+-`Mongoose`
+-`Insomnia`
+-`Nodemon`
 
 #Conclusion
+
+
 
