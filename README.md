@@ -24,12 +24,12 @@ Le projet vise à montrer, enregistrer, mettre à jour et supprimer les livres q
 
 
 #Technologies Used in this Project
- ``NodeJs``
- ``Mogodb``
- ``Express``
- ``Mongoose``
- ``Insomnia``
- ``Nodemon``
+-``NodeJs``
+-``Mogodb``
+-``Express``
+-``Mongoose``
+-``Insomnia``
+-``Nodemon``
 
 #Conclusion
 
