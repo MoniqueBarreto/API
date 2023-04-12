@@ -18,18 +18,16 @@ Le projet vise à montrer, enregistrer, mettre à jour et supprimer les livres q
 - `Feature 4`: Delete a book | author
 
 
-
 # 📁 Access to the Project
 
 
-
 #Technologies Used in this Project
--``NodeJs``
--``Mogodb``
--``Express``
--``Mongoose``
--``Insomnia``
--``Nodemon``
+-`NodeJs`
+-`Mogodb`
+-`Express`
+-`Mongoose`
+-`Insomnia`
+-`Nodemon`
 
 #Conclusion
 
